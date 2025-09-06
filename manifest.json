@@ -6,7 +6,7 @@
     "overview": "Allows uploading a custom logo to replace Jellyfin branding.",
     "owner": "bvolvy",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/bvolvy/CustomLogoPlugin/main/static/icon.png",
+    "imageUrl": "https://github.com/faustlod/CustomLogoPlugin/blob/main/static/icon.png",
     "versions": [
       {
         "version": "1.0.0",
