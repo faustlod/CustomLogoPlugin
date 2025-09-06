@@ -11,9 +11,9 @@
       {
         "version": "1.0.0",
         "targetAbi": "10.10.0.0",
-        "sourceUrl": "https://github.com/bvolvy/CustomLogoPlugin/releases/tag/v1.0.0",
-        "checksum": "d026126bede7c33e6c26c3ae826a8f774e140319c57b38b7bd50ff3ba3890b55",
-        "timestamp": "2025-04-30T23:00:00Z"
+        "sourceUrl": "https://github.com/faustlod/CustomLogoPlugin/archive/refs/tags/v1.0.0.zip",
+        "checksum": "20e9fa9c15c7407ce0de48580db5779355bcdf6bee8b275276b331b1931cffea",
+        "timestamp": "2025-09-06T22:20:00Z"
       }
     ]
   }
